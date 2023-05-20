@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Hi, I'm Rivka 🌱
+# 🪴 Rick's Garden
 
 <p> This website is a place to dump thoughts, ideas, coding resources and a bunch of other stuff that i could use for myself :p </p>
 
